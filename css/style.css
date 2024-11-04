@@ -1,0 +1,131 @@
+body{
+    background-color: black;
+}
+
+.fuente{
+    font-family: "orbitron", sans-serif;
+    color: white;
+}
+
+.fuente2{
+font-family: Poppins;
+font-weight: 400;
+line-height: 24px;
+color: white;
+text-decoration: none;
+}
+
+.menu{
+    width: 30vw;
+}
+
+.mujerconlentes{
+    width: 40vw;
+}
+
+.meta{
+    color: #F86CF8;
+}
+
+.posicionar{
+    position: relative;
+}
+
+.posicionar-hijo{
+    position: absolute;
+    top: 140px;
+}
+
+.boton-relleno{
+    background: linear-gradient(97.16deg, #D10ED1 12.04%, #10A3DA 81.84%);
+    border-radius: 5px;
+}
+
+.boton-sinrelleno{
+    background: none;
+    border: solid #D10ED1 2px;
+    border-radius: 5px;
+}
+
+.contenedor-botones{
+    width: 40vw;
+}
+
+.artworks{
+    position:absolute;
+    top: 40px;
+    left: -40px;
+    width: 10vw;
+}
+
+.artists{
+    position:absolute;
+    top: -30px;
+    left: 20px;
+    width: 10vw;
+}
+
+.auction{
+    position:absolute;
+    top: 0px;
+    right: -40px;
+    width: 10vw;
+}
+
+.personas-gafas{
+    width: 70vw;
+}
+
+.flecha{
+    position:absolute;
+    top: 10px;
+    right: 30px;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.contenedor-padre1{
+    width: 80vw;
+    background: rgba(9, 8, 35, 1);
+    border-radius: 0px 10px 0px 10px;
+}
+
+.pico{
+    width: 80vw;
+    border: solid #D10ED1 2px;
+    border-radius: 10px;
+}
+
+.play{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(66, 60, 60);
+    border-radius: 100%;
+    padding: 12px;
+    text-align: center;
+    padding-left: 18px;
+}
+
+.carrusel-1{
+    width: 80vw;
+    height: 70vh;
+}
+
+.piedepagina{
+    background: rgba(9, 8, 35, 1);
+}
+
+.color-letra{
+    color:#F86CF8;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
